@@ -1,1 +1,4 @@
-echo "Virus"
+for i in 1 2 3 4 5
+do
+  echo "Virus"
+done
